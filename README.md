@@ -59,7 +59,7 @@ Before you start, make sure you have Python installed on your system. You will a
    Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-repo/portal_frame_modeling.git
+   git clone https://github.com/OsdagScreeningTasks/PortalFrameModeling.git
    ```
 
    Navigate to the project directory:
@@ -115,7 +115,7 @@ Before you start, make sure you have Python installed on your system. You will a
    Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-repo/portal_frame_modeling.git
+   git clone https://github.com/OsdagScreeningTasks/PortalFrameModeling.git
    ```
 
    Navigate to the project directory:
